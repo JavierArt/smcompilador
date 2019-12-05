@@ -1,0 +1,21 @@
+string name = "Javier";
+string lastname = "Arteaga";
+string perro = "Rolon";
+int x = 7;
+int y = 34;
+int kkl;
+boolean b = true;
+
+//djdjdjcc ccc
+int main(){
+while( x < y ){
+if( x < y && x < 76){
+print( "ff" + name + perro );
+}
+x++;
+}
+
+kkl = 9 + x + y;
+print( kkl + lastname );
+return 0;
+}
